@@ -45,3 +45,21 @@ The project aims to leverage data visualization techniques on the company datase
     <img src="https://github.com/yasmeenustad/Data-Visualization/assets/112754746/a7d6684c-6096-4258-b9ab-fa2b84a856bb"  height="400" width="800"/>)
 </div>
 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
+
+- **Customization and Styling:**
+    - Customizing plots to match your project's aesthetic or conveying specific information can be challenging. Pandas offers customization options, but mastering them can take time.
+
+- **Handling Categorical Data:**
+    - Visualizing categorical data, especially when it's highly dimensional, can be complex. You may need to use techniques like grouping, faceting, or pivot tables to make it understandable.
+
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+
+- **Data Preparation is Key:**
+    - Effective data visualization starts with well-prepared data. Learning to clean, transform, and structure your data appropriately is essential for meaningful visualizations.
+
+- **Plot Selection Matters:**
+    - Understanding the characteristics of your data and analysis goals is crucial for choosing the right plot type. Different plots are suitable for different types of data, and selecting the wrong one can mislead.
+ 
+- **Customization Proficiency:**
+    - Invest time in mastering customization options to tailor your visualizations to your specific needs. This includes adjusting colors, labels, legends, and adding context to enhance data interpretation.
